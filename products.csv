@@ -1,0 +1,21 @@
+product_id,product_name,category,unit
+P01,Citric Acid,Acidulants,kg
+P02,Sodium Benzoate,Preservatives,kg
+P03,Potassium Sorbate,Preservatives,bag_25kg
+P04,Xanthan Gum,Thickeners,kg
+P05,Guar Gum,Thickeners,kg
+P06,MALTODEXTRIN ,Sweeteners,kg
+P07,sorbitol 70%,Sweeteners,kg
+P08,Dextrose Monohydrate,Sweeteners,kg
+P09,Soy Lecithin,Emulsifiers,kg
+P10,Vanilla Flavour (Powder),Flavours,kg
+P11,Strawberry Flavour,Flavours,kg
+P12,Titanium Dioxide,Colourants,kg
+P13,Caramel Colour,Colourants,kg
+P14,Ascorbic Acid,Antioxidants,kg
+P15,Lactic Acid,Acidulants,kg
+P16,Sodium Bicarbonate,Leavening,bag_25kg
+P17,Baking Powder Blend,Leavening,kg
+P18,Pectin,Thickeners,kg
+P19,Glycerine,Humectants,kg
+P20,Cocoa Powder (Alkalised),Flavours,kg

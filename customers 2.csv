@@ -1,0 +1,65 @@
+customer_id,customer_name,segment,state,signup_date
+C001,Sweet Crumbs Ltd,Dairy,Ogun,2023-09-23
+C002,Golden Loaf Enterprises,Confectionery,Rivers,2022-02-13
+C003,Naija Fresh Nig. Ltd,Bakery,Enugu,2022-08-20
+C004,Alpha Foods Limited,Confectionery,Oyo,2024-06-22
+C005,Zenith Bakes Ltd,Dairy,Ogun,2024-05-24
+C006,Coral Beverages Limited,Dairy,Lagos,2024-06-24
+C007,Delta Dairy Enterprises,Bakery,Kaduna,2025-02-23
+C008,Sunrise Confectionery Enterprises,Confectionery,Oyo,2025-08-26
+C009,Prime Mills Ltd,Distributor,Rivers,2023-01-26
+C010,Royal Bites Ltd,Confectionery,Enugu,2023-08-17
+C011,Harvest Gold Ltd,Confectionery,Enugu,2024-09-22
+C012,Kings Pastry Nig. Ltd,Confectionery,Kaduna,2025-04-19
+C013,Lagoon Drinks Nig. Ltd,Bakery,Lagos,2023-08-26
+C014,Savanna Foods Enterprises,Dairy,Rivers,2024-08-24
+C015,Bright Dairy Enterprises,Confectionery,Lagos,2024-06-24
+C016,Mama Cass Kitchen Ltd,Confectionery,Oyo,2025-03-23
+C017,Tropic Juice Enterprises,Bakery,Oyo,2025-06-13
+C018,Crown Biscuits Limited,Distributor,Kaduna,2023-08-10
+C019,Evergreen Foods Ltd,Bakery,Enugu,2022-04-17
+C020,Pearl Sweets Ltd,Bakery,Oyo,2024-03-10
+C021,Northern Flour Nig. Ltd,Confectionery,Kano,2023-08-28
+C022,Ibadan Bakers Limited,Dairy,Ogun,2025-03-14
+C023,Eko Beverages Nig. Ltd,Confectionery,Kaduna,2023-09-16
+C024,Cocoa Hills Enterprises,Bakery,Ogun,2025-02-11
+C025,Sugarloaf Nig. Ltd,Dairy,Lagos,2022-09-25
+C026,Anchor Distribution Nig. Ltd,Dairy,Enugu,2024-02-25
+C027,Metro Ingredients Enterprises,Distributor,Kano,2023-09-16
+C028,Trident Supplies Enterprises,Dairy,Enugu,2023-02-27
+C029,Oasis Drinks Enterprises,Bakery,Rivers,2023-01-27
+C030,Fine Crust Ltd,Confectionery,Rivers,2025-01-14
+C031,Tunde Sweet Limited,Beverage,Kano,2023-07-18
+C032,Emeka Golden Enterprises,Bakery,Kaduna,2024-03-21
+C033,Chi Naija Nig. Ltd,Confectionery,Enugu,2025-05-24
+C034,Chi Alpha Nig. Ltd,Confectionery,Enugu,2022-09-26
+C035,Bola Zenith Ltd,Beverage,Rivers,2022-02-24
+C036,Tunde Coral Nig. Ltd,Distributor,Kaduna,2023-01-21
+C037,Chi Delta Nig. Ltd,Beverage,Ogun,2024-09-28
+C038,Tunde Sunrise Limited,Dairy,Oyo,2023-02-18
+C039,Ade Prime Enterprises,Beverage,Ogun,2022-06-15
+C040,Tunde Royal Ltd,Dairy,Oyo,2022-05-20
+C041,Chi Harvest Nig. Ltd,Dairy,Ogun,2022-07-18
+C042,Emeka Kings Ltd,Bakery,Ogun,2023-01-19
+C043,Ade Lagoon Ltd,Dairy,Abuja FCT,2025-01-22
+C044,Bola Savanna Limited,Confectionery,Kaduna,2022-06-26
+C045,Tunde Bright Nig. Ltd,Distributor,Kaduna,2024-06-11
+C046,Tunde Mama Enterprises,Bakery,Oyo,2024-05-13
+C047,Bola Tropic Enterprises,Dairy,Lagos,2024-04-27
+C048,Ade Crown Ltd,Beverage,Ogun,2022-01-14
+C049,Ngozi Evergreen Nig. Ltd,Dairy,Lagos,2025-03-21
+C050,Emeka Pearl Enterprises,Confectionery,Rivers,2025-04-14
+C051,Chi Northern Ltd,Confectionery,Oyo,2023-04-10
+C052,Ade Ibadan Nig. Ltd,Confectionery,Kaduna,2024-06-14
+C053,Tunde Eko Ltd,Beverage,Lagos,2024-06-26
+C054,Tunde Cocoa Nig. Ltd,Distributor,Lagos,2022-04-25
+C055,Ade Sugarloaf Limited,Beverage,Kaduna,2024-04-27
+C056,Bola Anchor Nig. Ltd,Beverage,Abuja FCT,2024-08-24
+C057,Ngozi Metro Enterprises,Dairy,Rivers,2023-07-14
+C058,Emeka Trident Ltd,Dairy,Kaduna,2022-03-12
+C059,Bola Oasis Nig. Ltd,Dairy,Kano,2022-01-27
+C060,Chi Fine Nig. Ltd,Bakery,Kaduna,2025-09-26
+C061,Harvest Moon Bakers Nig. Ltd,Bakery,Lagos,2024-03-18
+C062,Ogun Crust & Crumb Limited,Bakery,Ogun,2023-11-09
+C063,Riverside Sweets Enterprises,Confectionery,Rivers,2024-06-21
+C064,Savanna Sweets Ltd,Confectionery,Kano,2024-02-12
